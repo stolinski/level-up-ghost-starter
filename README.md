@@ -1,6 +1,6 @@
-# Phantom
+# Level Up Starter - Ghost
 
-A starter theme for [Ghost](http://github.com/tryghost/ghost/).
+A starter theme for [Ghost](http://github.com/tryghost/ghost/) from [Level Up Tuts](http://leveluptuts.com).
 
 ## Copyright & License
 
