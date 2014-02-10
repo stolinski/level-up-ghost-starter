@@ -8,8 +8,6 @@ html {
 }
 
 body {
-    background: #E0F3FA;
-    color: #3A4145;
     height: 100%;
     max-height: 100%;
 }
@@ -35,4 +33,15 @@ hr {
 .vertical {
     display: table-cell;
     vertical-align: middle;
+}
+
+
+::-moz-selection {
+    color: #222;
+    background: #D6EDFF;
+}
+
+::selection {
+    color: #222;
+    background: #D6EDFF;
 }
