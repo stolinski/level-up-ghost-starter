@@ -1,0 +1,31 @@
+// load libraries
+@import "compass";
+@import "breakpoint";
+@import "singularitygs";
+@import "toolkit-no-css";
+@import "variables/**/*";
+@import "mixins/**/*";
+@import "base/**/*";
+@import "layout/**/*";
+@import "blocks/**/*";
+
+/* --$GLOBAL-- */
+
+body {
+  background: #fff;
+    color: #3A4145;
+}
+
+::-moz-selection {
+    color: #222;
+    background: #D6EDFF;
+}
+
+::selection {
+    color: #222;
+    background: #D6EDFF;
+}
+
+blockquote {
+    border-left: #4a4a4a 0.4em solid;
+}
